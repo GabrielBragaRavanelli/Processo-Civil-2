@@ -10,7 +10,7 @@ Estudos para a prova - 2
  
 - PRECLUSÃO E SEUS TIPOS:
  - O que é preclusao?
-   - É m instituto processual que, tem como função, levar o processo adiante.
+   - É um instituto processual que, tem como função, levar o processo adiante.
    
  - Tipos de Preclusão
    - Temporal:
