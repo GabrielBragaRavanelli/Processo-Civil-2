@@ -20,5 +20,11 @@ Estudos para a prova - 2
    - Consumativa:
      - Caso o indivíduo ja tenha praticado o ato, não poderá voltar atrás.
        - EX: Tenho 15 dias para fazer uma petição inicial, entratanto,  faço em 5 dias e fica uma bosta e, mesmo assim eu envio. Não poderei fazer outra petição.
+ 
+ - DOS AUXILIARES DA JUSTIÇA
+   - Do escrivão, do chefe de secretaria e do oficial de justiça - Art. 150 a 155
+   - Do perito - Art. 156 e 157
+   - Do depositario e do administrador - Art. 159 a 161
+   - Do interprete e do tradutor -  Art. 162 e 163
      
 
