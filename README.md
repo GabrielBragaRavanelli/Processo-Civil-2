@@ -25,6 +25,6 @@ Estudos para a prova - 2
    - Do escrivão, do chefe de secretaria e do oficial de justiça - Art. 150 a 155
    - Do perito - Art. 156 e 157
    - Do depositario e do administrador - Art. 159 a 161
-   - Do interprete e do tradutor -  Art. 162 e 163
+   - Do interprete e do tradutor -  Art. 162 e 164
      
 
