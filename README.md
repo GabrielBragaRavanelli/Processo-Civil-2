@@ -46,7 +46,7 @@ Estudos para a prova - 2
   -  O processo será julgado por um segundo juiz de uma comarca próxima.
 
 - Questão: o que é o impedimento superveniente (artigo 144, parágrafo 2º e 3º)?
-  - É a criação de um fato durante oprocesso para ser utilizado como  impedimento e assim toca o juiz.
+  - É a criação de um fato durante o processo para ser utilizado como  impedimento e assim toca o juiz.
 
 - Questão: juiz de primeira instância que já decidiu causa da mesma parte está impedido de julgar novo processo envolvendo a parte, em primeira instância?
   - Não, o juiz não está impedido pois é um novo processo começando do zero, em que  não existe nenhum impedimento ou suspensão Prévia.
