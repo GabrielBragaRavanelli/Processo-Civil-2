@@ -34,7 +34,7 @@ Estudos para a prova - 2
   - Sim, com base no art. 146 do cpc caput , em que o juiz decidirá se aceita ou não o que foi alegado.
 
 - Questão: juiz que se afastou do processo por motivo de foro íntimo pode ser obrigatoriamente reconduzido ao mesmo por decisão superior?
-  - Caso o juiz se afste por motivo de foro intimo sua decisão será soberana, sem obrigatoriamnete de decisão superior.
+  - Caso o juiz se afaste por motivo de foro intimo sua decisão será soberana, sem obrigatoriamnete de decisão superior.
 
 - Questão: a parte contrária (que não opôs o incidente) será ouvida em relação ao incidente?
   - A parte contraria não será ouvinte pois, ao solicitar a troca de juiz por motivo de impedimento ou sespensão é necessário que haja prova ( testemunhas, fotografias , etc).
