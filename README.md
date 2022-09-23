@@ -52,6 +52,22 @@ Estudos para a prova - 2
   - Não, o juiz não está impedido pois é um novo processo começando do zero, em que  não existe nenhum impedimento ou suspensão Prévia.
 
 
+-SÚMULAS COMUM E VINCULANTE
+ - SÚMULA COMUM
+   - Feita pelos tribunais 
+   - Os orgãoes são os que elaboram e aprovam
+   - Poussi muita qualidade, pouca força da lei e não apresenta carater obrigatório
+   - Tem como função orienr os tribunais inferiores
+
+ - SÚMULA VINCULATE
+   - Feita pelo STF
+   - Apenas assuntos da constituição
+   - Possui força da lei ordinaria e carater obrigatorio
+   - Funcionam conforme o §3.º do art.103-A da CRFB/88 
+ 
+
+
+
 
 
 
